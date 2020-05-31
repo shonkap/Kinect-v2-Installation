@@ -1,6 +1,9 @@
 # Kinect-v2-Installation
 This is a guide on how to get the kinect v2 working with windows 10. The kinect drivers are also included.
 
+Link to the kinect drivers:
+https://drive.google.com/file/d/15YIXPAb3g9fip4CuipI2GMZ7QJftSFnU/view?usp=sharing
+
 PROBLEM -> Cannot connect to the Kinect Studio Host Service:
 service.-->>>Win+R--->services.msc--->KinectMonitor
 
