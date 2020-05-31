@@ -1,0 +1,2 @@
+D:\CS406\FaceBasics-D2D\Debug\FaceBasics-D2D.exe
+D:\CS406\FaceBasics-D2D\Debug\FaceBasics-D2D.pdb
